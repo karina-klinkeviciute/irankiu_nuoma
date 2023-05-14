@@ -1,0 +1,1 @@
+# naudotu_irankiu_pardavimas
