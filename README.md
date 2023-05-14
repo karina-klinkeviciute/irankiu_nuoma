@@ -2,7 +2,9 @@
 
 ## Trumpas aprašymas
 
-Web puslapis įrankių nuomai. Naudotojai gali kelti įrankius, o kiti naudotojai gali ieškoti išsinuomoti įrankių. (jei toks projektas iš tikro būtų įgyvendinamas, reikėtų labai apgalvoti atvejus, kai įrankiai neveiks, bus nekokybiški, ar išsinuomojęs naudotojas juos sugadins. Ar būtų kažkoks draudimas, kažkokia kompensacija ar kas)
+Web puslapis įrankių nuomai. Naudotojai gali kelti savo įrankius, o kiti naudotojai gali ieškoti jiems reikiamų įrankių ir juos išsinuomoti. 
+
+(jei toks projektas iš tikro būtų įgyvendinamas, reikėtų labai apgalvoti atvejus, kai įrankiai neveiks, bus nekokybiški, ar išsinuomojęs naudotojas juos sugadins. Ar būtų kažkoks draudimas, kažkokia kompensacija ar kas)
 
 ## Duomenys 
 
@@ -12,6 +14,7 @@ Web puslapis įrankių nuomai. Naudotojai gali kelti įrankius, o kiti naudotoja
     - telefonas
     - el. paštas
     - vietovė
+    - jei tai įmonė, įmonės pavadinimas
 
 - įrankis
     - pavadinimas
