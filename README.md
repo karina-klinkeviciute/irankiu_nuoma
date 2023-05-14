@@ -34,7 +34,8 @@ Web puslapis įrankių nuomai. Naudotojai gali kelti savo įrankius, o kiti naud
     - iki kada
     - bendra kaina
     - pastabos
-    
+
+
     
 ## Procesai
 
@@ -68,6 +69,10 @@ Web puslapis įrankių nuomai. Naudotojai gali kelti savo įrankius, o kiti naud
     - Atsidaręs puslapį, nuomotojas mato nuomos užklausą, kurią gali patvirtinti arba atmesti
     - Jei užklausa patvirtinama, nuomotojas susisiekia su nuomininku dėl įrankio atsiėmimo ir grąžinimo detalių bei apmokėjimo.
     
+## Naudotojai ir rolės
+
+1. Nuomotojas/nuomininkas. Gali matyti ir redaguoti savo paskyros duomenis. Gali kelti įrankius nuomai. Gali patvirtinti jam skirtą nuomos užsakymą. Gali išsinuomoti įrankius. 
+2. Sistemos administratorius. Gali matyti visų vartojų duomenis. Gali trinti įrankių įrašus. Gali atšaukti užsakymus. Gali panaikinti naudotojų paskyras. 
 
 ## Dizainas
 
