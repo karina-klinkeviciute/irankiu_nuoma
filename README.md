@@ -8,7 +8,7 @@ Web puslapis įrankių nuomai. Naudotojai gali kelti savo įrankius, o kiti naud
 
 ## Duomenys 
 
-- Vartotojas 
+- Naudotojas 
     - Vardas
     - Pavardė
     - telefonas
