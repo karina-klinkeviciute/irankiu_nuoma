@@ -33,6 +33,7 @@ Web puslapis įrankių nuomai. Naudotojai gali kelti savo įrankius, o kiti naud
     - įrankis (susieta su įrankiu, nurodytu viršuje)
     - akumuliatoriaus talpa
     - vietovė
+    - QR kodas
 
 - Nuomos faktas
     - įrankis (susieta su įrankio vienetu, nurodytu viršuje)
