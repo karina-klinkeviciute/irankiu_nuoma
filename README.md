@@ -27,9 +27,15 @@ Web puslapis įrankių nuomai. Naudotojai gali kelti savo įrankius, o kiti naud
     - ar su pristatymu, ar reikia pasiimti
     - vietovė (gali būti kita, nei naudotojo vietovė)
     - kokiu laiku galima nuomotis (pvz. darbo dienomis nuo 8 iki 17, arba savaitgaliais nuo 12 iki 20)
+    - kiekis (suskaičiuojamas pagal įrankio vienetus)
+
+- įrankio vienetas
+    - įrankis (susieta su įrankiu, nurodytu viršuje)
+    - akumuliatoriaus talpa
+    - vietovė
 
 - Nuomos faktas
-    - įrankis
+    - įrankis (susieta su įrankio vienetu, nurodytu viršuje)
     - nuo kada
     - iki kada
     - bendra kaina
